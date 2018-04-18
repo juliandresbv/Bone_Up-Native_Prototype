@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1CDA84A4-3265-9B61-8B29-0A4852E34C40}") = "BoneUp_Unity", "Assembly-CSharp.csproj", "{23F73119-0EDD-5DAE-6A59-B76192711CFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23F73119-0EDD-5DAE-6A59-B76192711CFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23F73119-0EDD-5DAE-6A59-B76192711CFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23F73119-0EDD-5DAE-6A59-B76192711CFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23F73119-0EDD-5DAE-6A59-B76192711CFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
